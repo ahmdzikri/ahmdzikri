@@ -57,7 +57,7 @@ I'm a passionate **Software Developer** who loves crafting elegant solutions to 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmdzikri&theme=tokyonight" alt="GitHub Streak Stats"/>
 </div>
 
-### 📈 Activity Graph
+## 📈 Activity Graph
  
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmdzikri&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -70,9 +70,6 @@ I'm a passionate **Software Developer** who loves crafting elegant solutions to 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ahmadzikri.0505@gmail.com)
 
 </div>
-
-## 📈 Activity Graph
-[![Ahmad Zikri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmdzikri&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
